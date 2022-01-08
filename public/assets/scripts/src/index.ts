@@ -1,4 +1,4 @@
-import "./firebase";git
+import "./firebase";
 import "./main";
 import "./auth";
 import "./calendar";
