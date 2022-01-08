@@ -1,3 +1,4 @@
+import "./firebase";git
 import "./main";
 import "./auth";
 import "./calendar";
